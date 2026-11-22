@@ -1,0 +1,6 @@
+timestamp,user,department,app_name,approved,data_sensitivity,action,records_shared
+2026-11-22T18:31:00,a.rao,Engineering,PublicChat AI,false,Confidential,Prompt submitted,3
+2026-11-22T18:02:00,m.shah,Marketing,Enterprise Copilot,true,Public,Content generation,0
+2026-11-22T17:44:00,s.kumar,Finance,QuickLLM,false,Internal,File uploaded,2
+2026-11-22T17:18:00,n.iyer,Engineering,Code Assistant Enterprise,true,Internal,Code completion,0
+2026-11-22T16:51:00,p.das,HR,PublicChat AI,false,Personal,Prompt submitted,1

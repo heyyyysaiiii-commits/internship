@@ -1,0 +1,11 @@
+timestamp,username,source_ip,event_type,status,destination_port,details
+2026-11-22T18:10:00,jsmith,198.51.100.24,login,failed,443,Invalid password
+2026-11-22T18:10:24,jsmith,198.51.100.24,login,failed,443,Invalid password
+2026-11-22T18:10:49,jsmith,198.51.100.24,login,failed,443,Invalid password
+2026-11-22T18:11:06,jsmith,198.51.100.24,login,failed,443,MFA challenge not completed
+2026-11-22T17:55:00,svc-backup,203.0.113.17,connection,allowed,21,Connection attempt
+2026-11-22T17:55:03,svc-backup,203.0.113.17,connection,allowed,22,Connection attempt
+2026-11-22T17:55:06,svc-backup,203.0.113.17,connection,allowed,23,Connection attempt
+2026-11-22T17:55:08,svc-backup,203.0.113.17,connection,allowed,25,Connection attempt
+2026-11-22T17:55:10,svc-backup,203.0.113.17,connection,allowed,80,Connection attempt
+2026-11-22T17:55:12,svc-backup,203.0.113.17,connection,allowed,443,Connection attempt
